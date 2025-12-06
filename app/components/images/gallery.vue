@@ -78,7 +78,7 @@ function closeImage() {
                     index % 13 === 0 ? 'md:col-span-2' : ''
                 ]" @click="openImage(image)">
                 
-                    <img :src="image" :alt="image || `Image ${index + 1}`"
+                    <img :src="image" :alt="image || `Image ${index + 1}`" loading="lazy"
                         class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105" />
                     <div
                         class="absolute top-2 right-2 bg-white/90 backdrop-blur-sm rounded-full p-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300">

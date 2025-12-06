@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="md:w-[40%] hidden md:block 2xl:h-[50em]">
-                <img src="~/assets/images/donate.jpg" alt=""
+                <img src="~/assets/images/donate.avif" alt=""
                     class="rounded-b-[1.5em] md:rounded-bl-[0] md:rounded-r-[1.5em] h-full object-cover" />
             </div>
 

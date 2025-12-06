@@ -14,11 +14,11 @@
             </div>
             <div class="flex flex-col md:flex-row gap-[0.5em] w-[50%] md:w-full h-full md:h-[40%] ">
                 <div class="relative h-[50%] md:h-full w-full">
-                    <img src="~/assets/images/sir.jpg" alt="" class="rounded-[1em] h-full w-full object-cover" />
+                    <img src="~/assets/images/1.avif" alt="" class="rounded-[1em] h-full w-full object-cover" />
                     <div class="absolute inset-0 bg-black/20 rounded-[1em] "></div>
                 </div>
                 <div class="relative h-[50%] md:h-full w-full">
-                    <img src="~/assets/images/sir.jpg" alt="" class="rounded-[1em] h-full w-full object-cover" />
+                    <img src="~/assets/images/2.avif" alt="" class="rounded-[1em] h-full w-full object-cover" />
                     <div class="absolute inset-0 bg-black/20 rounded-[1em]"></div>
                 </div>
             </div>
@@ -27,11 +27,11 @@
             <div class="flex flex-row-reverse md:flex-row gap-[0.5em] h-full">
                 <div class="flex flex-col gap-[0.5em] h-full w-[50%]">
                     <div class="relative h-[50%]">
-                        <img src="~/assets/images/sir.jpg" alt="" class="rounded-[1em] w-full h-full object-cover" />
+                        <img src="~/assets/images/3.avif" alt="" class="rounded-[1em] w-full h-full object-cover" />
                         <div class="absolute inset-0 bg-black/20 rounded-[1em] "></div>
                     </div>
                     <div class="relative h-[50%]">
-                        <img src="~/assets/images/sir.jpg" alt="" class="rounded-[1em] w-full h-full object-cover" />
+                        <img src="~/assets/images/4.avif" alt="" class="rounded-[1em] w-full h-full object-cover" />
                         <div class="absolute inset-0 bg-black/20 rounded-[1em] "></div>
                     </div>
                 </div>
