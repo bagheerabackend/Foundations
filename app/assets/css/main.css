@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: montserrat;
+  font-display: swap;
+  src: url('../fonts/Montserrat.ttf');
+}
+
+@font-face {
+  font-family: alfa;
+  font-display: swap;
+  src: url('../fonts/AlfaSlabOne.ttf');
+}
