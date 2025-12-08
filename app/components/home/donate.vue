@@ -11,7 +11,7 @@
                         class="border-1 border-[#FB8500] flex gap-[2em] rounded-[1em] mt-[2em] w-[100%] px-[1.5em] py-[1em] md:py-[1.5em]">
                         <p class="font-semibold ">₹</p>
                         <div class="w-[1px] h-[1.5em] bg-[#FB8500]"></div>
-                        <input v-model="donationAmount" type="number" placeholder="Enter Amount"
+                        <input v-model="donationAmount" min="0" type="number" placeholder="Enter Amount"
                             class="focus:outline-none w-[100%] text-[1em]" />
                     </div>
                     <button @click="openModal"
