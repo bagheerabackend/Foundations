@@ -1,14 +1,8 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.goldstarfoundations.twa",
-      "sha256_cert_fingerprints": [
-        "FDED7414DCB38A1776953AEA5AAD2EC74DEC08541C5B96772386FDFBF3C861B"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.goldstarfoundations.twa",
+        "sha256_cert_fingerprints": ["7EBE6806AA31032B908255A47FC7375E4E1A2C813AF204541877E6BD4E31574F"]
+      }
+    }]
