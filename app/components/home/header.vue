@@ -8,7 +8,7 @@
             </div>
         </div>
         <div>
-            <NuxtLink to="/#donate" class="text-[1em] md:text-[1.25em] px-[2em] py-[0.8em] rounded-[0.5em] hover:bg-[#FB8500] hover:text-[#fff] transition-colors duration-500 ease-[cubic-bezier(.4,0,.2,1)] ">Donate</NuxtLink>
+            <NuxtLink to="/#donate" class="text-[1em] md:text-[1.25em] px-[1.5em] md:px-[2em] py-[0.8em] rounded-[0.5em] hover:bg-[#FB8500] hover:text-[#fff] transition-colors duration-500 ease-[cubic-bezier(.4,0,.2,1)] ">Donate</NuxtLink>
         </div>
     </div>
 </template>
