@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.goldstarfoundations.twa",
+      "sha256_cert_fingerprints": [
+        "FD:ED:74:14:DC:B3:8A:17:76:95:34:AE:A5:AA:D2:EC:74:DE:C0:85:41:C5:B9:67:72:38:6F:DF:BF:3C:86:1B"
+      ]
+    }
+  }
+]
