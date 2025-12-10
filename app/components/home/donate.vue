@@ -70,12 +70,12 @@
                                 <input v-model="name" type="number" placeholder=""
                                     class="focus:outline-none w-[100%] text-[1em] border-1 border-[#FB8500] flex gap-[2em] rounded-[1em] w-[100%] px-[1.5em] py-[1em] md:py-[1.25em]" />
                             </div>
-                            <div class="my-5">
+                            <!-- <div class="my-5">
                                 <label for="name" class="py-2 font-semibold">Email Address <span
                                         class="font-light">(Optional)</span></label>
                                 <input v-model="name" type="number" placeholder=""
                                     class="focus:outline-none w-[100%] text-[1em] border-1 border-[#FB8500] flex gap-[2em] rounded-[1em] w-[100%] px-[1.5em] py-[1em] md:py-[1.25em]" />
-                            </div>
+                            </div> -->
                         </div>
 
                         <div class="text-center mb-[1em]">
