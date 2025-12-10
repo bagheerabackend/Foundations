@@ -115,9 +115,9 @@ function closeImage() {
                         </svg>
                     </button>
 
-                    <div class="" @click.stop>
+                    <div class="max-w-lg w-full" @click.stop>
                         <img :src="selectedImage" :alt="selectedImage || 'Selected image'"
-                            class="w-[35em] rounded-lg" />
+                            class="w-full rounded-lg" />
                     </div>
                 </div>
             </Transition>

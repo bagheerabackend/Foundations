@@ -131,7 +131,7 @@ function closeVideo() {
                         </svg>
                     </button>
 
-                    <div class="max-w-4xl w-full" @click.stop>
+                    <div class="max-w-lg w-full" @click.stop>
                         <video
                             :src="selectedVideo"
                             class="w-full rounded-lg"
